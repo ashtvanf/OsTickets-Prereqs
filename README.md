@@ -25,7 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://1drv.ms/i/s!AlrkJTbNstrGgS71j0EP7lB9DFAs?e=mI3y6j"/>
+<img src="![Screenshot (6)](https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/f8070a75-16ee-485d-b1eb-135ffb7d84a7)
+"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
