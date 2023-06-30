@@ -17,6 +17,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/f8070a75-16ee-485d-b1eb-135ffb7d84a7"/>
+
 - Download and install all programs from installation list. <https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6>
 - Install/Enable IIS in Windows with CGI, Common HTTP Features, and IIS Management Console
 - Create the directory C:\PHP
@@ -25,13 +27,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/f8070a75-16ee-485d-b1eb-135ffb7d84a7"/>
 </p>
 <p>
 Open IIS as an Admin, Register PHP from within IIS. Reload IIS, afterwards opening IIS restart the server.
 Once completed Install osTicket v1.15.8
 After installation extract and copy “upload” folder to c:\inetpub\wwwroot.
-Once completed, go within c:\inetpub\wwwroot, and rename “upload” to “osTicket”
+Once completed, go within c:\inetpub\wwwroot, and rename “upload” to “osTicket.”
 If not named specifically "osTicket" the installation may not complete.
 </p>
 <br />
