@@ -25,8 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 Open IIS as an Administrator and register PHP. Afterwards reload IIS and restart the server.
 Once that is completed, Install osTicket v1.15.8
-After installation extract and copy “upload” folder to c:\inetpub\wwwroot.
-Once completed, go within c:\inetpub\wwwroot, and rename “upload” to “osTicket.”
+
+After installation, extract and copy “upload” folder to c:\inetpub\wwwroot.
+Once finished, go within c:\inetpub\wwwroot, and rename “upload” to “osTicket.”
 If not named specifically "osTicket" the installation may not complete.
 </p>
 <br />
