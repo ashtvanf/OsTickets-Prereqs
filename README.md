@@ -33,7 +33,8 @@ If not named specifically "osTicket" the installation may not complete.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/a1defd86-0ca1-4b2a-a357-8a58919ccaa0"
+  
 </p>
 <p>
 Go to sites -> Default -> osTicket.
@@ -54,13 +55,13 @@ Go back to IIS, sites -> Default -> osTicket
 
 Refresh the osTicket site in your browser, and ensure changes have been made.
 
+Rename: ost-config.php, origin will be: "ost-sampleconfig.php"
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/31196919-1548-4670-a75a-5d74257d680b"
+
 </p>
 <br />
