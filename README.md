@@ -28,7 +28,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/f8070a75-16ee-485d-b1eb-135ffb7d84a7"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin, Register PHP from within IIS. Reload IIS, afterwards opening IIS restart the server.
+Once completed Install osTicket v1.15.8
+After installation extract and copy “upload” folder to c:\inetpub\wwwroot.
+Once completed, go within c:\inetpub\wwwroot, and rename “upload” to “osTicket”
+If not named specifically "osTicket" the installation may not complete.
 </p>
 <br />
 
