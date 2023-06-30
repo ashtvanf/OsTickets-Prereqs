@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/f8070a75-16ee-485d-b1eb-135ffb7d84a7"/>
+<img src="https://github.com/ashtvanf/OsTickets-Prereqs/assets/138221709/cbc74c53-5d08-4f88-aae2-2c906f9d3e5e"/>
 
 - Download and install all programs from installation list. <https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6>
 - Install/Enable IIS in Windows with CGI, Common HTTP Features, and IIS Management Console
