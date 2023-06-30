@@ -36,7 +36,17 @@ If not named specifically "osTicket" the installation may not complete.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to sites -> Default -> osTicket.
+On the right, click “Browse *:80”
+You'll notice that some extensions are not enabled.
+Go back to IIS, sites -> Default -> osTicket
+-Double-click PHP Manager
+-Click “Enable or disable an extension”
+-Enable: php_imap.dll
+-Enable: php_intl.dll
+-Enable: php_opcache.dll
+Refresh the osTicket site in your browser, and ensure changes have been made.
+
 </p>
 <br />
 
